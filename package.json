@@ -1,0 +1,31 @@
+{
+  "name": "pg-migration",
+  "version": "1.0.0",
+  "description": "The super simple migration manager for pg driver.",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlekseyKowalsky/pg-migration.git"
+  },
+  "keywords": [
+    "pg",
+    "migration",
+    "postgresql"
+  ],
+  "author": "Aleksey Kowalsky",
+  "license": "SEE LICENSE IN LICENSE",
+  "bugs": {
+    "url": "https://github.com/AlekseyKowalsky/pg-migration/issues"
+  },
+  "homepage": "https://github.com/AlekseyKowalsky/pg-migration#readme",
+  "dependencies": {
+    "pg": "~8.2.1"
+  },
+  "devDependencies": {
+    "@types/node": "~14.0.14"
+  }
+}
