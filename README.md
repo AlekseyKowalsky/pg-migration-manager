@@ -1,9 +1,9 @@
-![GitHub Logo](assets/_birds.png)
+![GitHub Logo](https://hostingkartinok.com/show-image.php?id=8b7992739900aba032f02557a739d660)
 
 >####The super simple migration manager for loved by everyone pg driver. (https://www.npmjs.com/package/pg)
 
 
-###Installation
+##Installation
 ```shell
 npm i pg-migration-manager
 ```
@@ -69,4 +69,5 @@ Next time when you start server saved migrations will be ignored, only new ones 
  **Another note:** the migration manager implements migrations one by one according to creation dates of  files.
  
  ## In conclusion
+ 
  I'll be happy to hear your ideas and suggestions to possible improving this tiny but helpful tool.
