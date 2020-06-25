@@ -1,6 +1,6 @@
 ![Image alt](https://github.com/AlekseyKowalsky/pg-migration-manager/raw/master/assets/_birds.png)
 
-##### The super simple migration manager for [loved by everyone pg driver](https://www.npmjs.com/package/pg).
+The super simple migration manager for [loved by everyone pg driver](https://www.npmjs.com/package/pg).
 
 
 ## Installation
