@@ -1,6 +1,6 @@
 ![Image alt](https://github.com/AlekseyKowalsky/pg-migration-manager/raw/master/assets/_birds.png)
 
->#### The super simple migration manager for loved by everyone pg driver. (https://www.npmjs.com/package/pg)
+##### The super simple migration manager for [loved by everyone pg driver](https://www.npmjs.com/package/pg).
 
 
 ## Installation
@@ -68,6 +68,6 @@ Next time when you start server saved migrations will be ignored, only new ones 
  
  **Another note:** the migration manager implements migrations one by one according to creation dates of  files.
  
- ## In conclusion
+### In conclusion
  
  I'll be happy to hear your ideas and suggestions to possible improving this tiny but helpful tool.
