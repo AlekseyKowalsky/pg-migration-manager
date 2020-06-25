@@ -1,9 +1,9 @@
-![GitHub Logo](https://hostingkartinok.com/show-image.php?id=8b7992739900aba032f02557a739d660)
+![Image alt](https://github.com/AlekseyKowalsky/pg-migration-manager/raw/master/assets/_birds.png)
 
->####The super simple migration manager for loved by everyone pg driver. (https://www.npmjs.com/package/pg)
+>#### The super simple migration manager for loved by everyone pg driver. (https://www.npmjs.com/package/pg)
 
 
-##Installation
+## Installation
 ```shell
 npm i pg-migration-manager
 ```
