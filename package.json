@@ -1,6 +1,6 @@
 {
   "name": "pg-migration-manager",
-  "version": "1.0.7",
+  "version": "1.0.8",
   "description": "The super simple migration manager for pg driver.",
   "main": "dist/index.js",
   "types": "dist/types.d.ts",
