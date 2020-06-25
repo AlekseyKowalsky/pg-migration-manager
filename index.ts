@@ -1,3 +1,3 @@
-import MigrationManager from './MigrationManager'
+import MigrationManager from './lib/MigrationManager'
 
 export default MigrationManager;
